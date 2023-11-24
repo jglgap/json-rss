@@ -2,7 +2,7 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Pogrammig languages",
     "home_page_url": "https://jglgap.github.io/json-rss/",
-    "feed_url": "https://jglgap.github.io/json-rss/feed/feed.json",
+    "feed_url": "https://jglgap.github.io/json-rss/Feed/feed.json",
     "items": [
     {
     "id": "2",
