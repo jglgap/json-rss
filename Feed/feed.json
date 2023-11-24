@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pogrammig languages",
+    "home_page_url": "https://jglgap.github.io/json-rss/",
+    "feed_url": "https://jglgap.github.io/json-rss/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "this is Rust.",
+    "url": "https://jglgap.github.io/json-rss/rust.html"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Hello java</p>",
+    "url": "https://jglgap.github.io/json-rss/jvav.html"
+    }
+    ]
+   }
